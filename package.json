@@ -1,0 +1,12 @@
+{
+  "name": "brickset",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Brent Groves <brent.groves@gmail.com> (http://makercountry.com)",
+  "license": "MIT"
+}
